@@ -177,4 +177,4 @@ jupyter
 
 **Zeynep Sare Evcil**
 Yapay Zeka Mühendisliği
-Veri Madenciliği Dersi Projesi | Bahar 2026
+Veri Madenciliği Projesi | Bahar 2026
